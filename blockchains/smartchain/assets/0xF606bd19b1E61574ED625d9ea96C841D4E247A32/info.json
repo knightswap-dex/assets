@@ -1,0 +1,16 @@
+{
+    "name": "Guard Token",
+    "website": "",
+    "source_code": "",
+    "description": "",
+    "research": "",
+    "socials": [
+       
+    ],
+    "explorer": "https://bscscan.com/token/0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
+    "type": "BEP20",
+    "symbol": "GUARD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32"
+}
