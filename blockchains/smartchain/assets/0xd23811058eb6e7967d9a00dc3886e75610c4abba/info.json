@@ -1,0 +1,12 @@
+{
+    "name": "KNIGHTSWAP Token",
+    "website": "https://app.knightswap.financial/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xd23811058eb6e7967d9a00dc3886e75610c4abba",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "KNIGHT",
+    "decimals": 19,
+    "status": "active",
+    "id": "0xd23811058eb6e7967d9a00dc3886e75610c4abba"
+}
